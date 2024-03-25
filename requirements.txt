@@ -1,0 +1,6 @@
+kafka_python
+psycopg2-binary
+apache-airflow
+pyspark
+unidecode
+pybind11
